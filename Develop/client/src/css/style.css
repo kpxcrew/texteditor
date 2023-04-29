@@ -32,11 +32,11 @@ h1 {
   font-weight: 550;
   letter-spacing: 0.9px;
 }
-
+/* makes button disappear */
 .hidden {
   display: none
  }
- 
+
 .navbar-brand img {
   padding-top: 10px;
 }
