@@ -56,6 +56,6 @@ Utilizing the application is simple
 
 ## Credits
 
-*Ask BCS
-*Classmates
-*class material
+* Ask BCS
+* Class MAterials
+* Classmates
