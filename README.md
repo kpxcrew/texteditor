@@ -54,4 +54,8 @@ Utilizing the application is simple
     https://davetexteditor.herokuapp.com/
 * Play around!
 
+## Credits
 
+Ask BCS
+Classmates
+class material
